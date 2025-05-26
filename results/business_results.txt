@@ -1,0 +1,80 @@
+Text: Thanks for your prompt response to our inquiry. We'll review the information and get back to you by Friday.
+Prediction: ham (confidence: 0.9995)
+Ham probability: 0.9995, Spam probability: 0.0005
+--------------------------------------------------
+Text: Our team has completed the initial review of your proposal. We'd like to schedule a follow-up call next week.
+Prediction: ham (confidence: 0.9965)
+Ham probability: 0.9965, Spam probability: 0.0035
+--------------------------------------------------
+Text: The quarterly financial report will be distributed to all department heads by end of day tomorrow.
+Prediction: ham (confidence: 0.9183)
+Ham probability: 0.9183, Spam probability: 0.0817
+--------------------------------------------------
+Text: Please remember to submit your timesheet before 5PM today to ensure on-time processing of this week's payroll.
+Prediction: ham (confidence: 0.9836)
+Ham probability: 0.9836, Spam probability: 0.0164
+--------------------------------------------------
+Text: We've received your application for the Senior Developer position. Your interview is scheduled for Tuesday at 2PM.
+Prediction: ham (confidence: 0.9906)
+Ham probability: 0.9906, Spam probability: 0.0094
+--------------------------------------------------
+Text: The company holiday party will be held on December 15th at the Grand Hotel. Please RSVP by November 30th.
+Prediction: ham (confidence: 0.9999)
+Ham probability: 0.9999, Spam probability: 0.0001
+--------------------------------------------------
+Text: Your request for PTO from July 15-19 has been approved. Enjoy your vacation!
+Prediction: ham (confidence: 0.9410)
+Ham probability: 0.9410, Spam probability: 0.0590
+--------------------------------------------------
+Text: The marketing team has published the new brand guidelines. Please review them before creating any new materials.
+Prediction: ham (confidence: 0.9992)
+Ham probability: 0.9992, Spam probability: 0.0008
+--------------------------------------------------
+Text: I've reviewed the contract and have a few small changes to suggest. Let's discuss on our call tomorrow.
+Prediction: ham (confidence: 0.9968)
+Ham probability: 0.9968, Spam probability: 0.0032
+--------------------------------------------------
+Text: Thank you for attending yesterday's workshop. The presentation slides are now available on the intranet.
+Prediction: ham (confidence: 0.9998)
+Ham probability: 0.9998, Spam probability: 0.0002
+--------------------------------------------------
+Text: Just wanted to confirm that we're still meeting for coffee at 10AM tomorrow at the usual place.
+Prediction: ham (confidence: 1.0000)
+Ham probability: 1.0000, Spam probability: 0.0000
+--------------------------------------------------
+Text: Happy birthday! Hope you have a wonderful day and get to do something special to celebrate.
+Prediction: ham (confidence: 0.5176)
+Ham probability: 0.5176, Spam probability: 0.4824
+--------------------------------------------------
+Text: The book you recommended was fantastic! I just finished it yesterday and couldn't put it down.
+Prediction: ham (confidence: 0.9009)
+Ham probability: 0.9009, Spam probability: 0.0991
+--------------------------------------------------
+Text: I've attached the photos from our hiking trip last weekend. Feel free to share them with the group.
+Prediction: ham (confidence: 0.9999)
+Ham probability: 0.9999, Spam probability: 0.0001
+--------------------------------------------------
+Text: Our flight was delayed by two hours, so we'll be arriving around midnight instead. No need to pick us up.
+Prediction: spam (confidence: 0.6832)
+Ham probability: 0.3168, Spam probability: 0.6832
+--------------------------------------------------
+Text: The neighborhood association meeting has been rescheduled to next Wednesday at 7PM at the community center.
+Prediction: ham (confidence: 0.9999)
+Ham probability: 0.9999, Spam probability: 0.0001
+--------------------------------------------------
+Text: The plumber is scheduled to come fix the sink tomorrow between 9AM-12PM. Someone needs to be home during that time.
+Prediction: ham (confidence: 0.9996)
+Ham probability: 0.9996, Spam probability: 0.0004
+--------------------------------------------------
+Text: Just wanted to let you know that I'll be 15 minutes late to our lunch today due to an extended morning meeting.
+Prediction: ham (confidence: 0.9994)
+Ham probability: 0.9994, Spam probability: 0.0006
+--------------------------------------------------
+Text: The library has notified me that the book you placed on hold is now available for pickup.
+Prediction: ham (confidence: 0.9954)
+Ham probability: 0.9954, Spam probability: 0.0046
+--------------------------------------------------
+Text: I've shared the family vacation calendar with you so we can coordinate our schedules for next summer.
+Prediction: ham (confidence: 0.6915)
+Ham probability: 0.6915, Spam probability: 0.3085
+--------------------------------------------------

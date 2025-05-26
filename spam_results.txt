@@ -1,0 +1,80 @@
+Text: URGENT: Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity: http://verify-account.scam-url.com
+Prediction: spam (confidence: 0.9999)
+Ham probability: 0.0001, Spam probability: 0.9999
+--------------------------------------------------
+Text: Congratulations! You've won $5,000,000 in the International Lottery. Send your bank details to claim your prize now!
+Prediction: spam (confidence: 0.9998)
+Ham probability: 0.0002, Spam probability: 0.9998
+--------------------------------------------------
+Text: FREE iPhone 15 Pro! You've been selected to receive our promotional giveaway. Just pay shipping and handling fee of $4.99!
+Prediction: spam (confidence: 1.0000)
+Ham probability: 0.0000, Spam probability: 1.0000
+--------------------------------------------------
+Text: Your PayPal account has been limited! We need you to verify your information immediately: http://paypal-account-verify.fake.com
+Prediction: spam (confidence: 1.0000)
+Ham probability: 0.0000, Spam probability: 1.0000
+--------------------------------------------------
+Text: FINAL NOTICE: Your car warranty is about to expire. Call now to extend your coverage before it's too late: 1-800-555-0123
+Prediction: spam (confidence: 0.9976)
+Ham probability: 0.0024, Spam probability: 0.9976
+--------------------------------------------------
+Text: ATTENTION: Unauthorized login attempt detected on your Netflix account. Update your payment information now: http://netflix-secure.fake-site.org
+Prediction: spam (confidence: 0.9939)
+Ham probability: 0.0061, Spam probability: 0.9939
+--------------------------------------------------
+Text: Your Apple ID was used to sign in to a new device. If this wasn't you, click here to secure your account: http://apple-secure.phishing-domain.net
+Prediction: spam (confidence: 0.9998)
+Ham probability: 0.0002, Spam probability: 0.9998
+--------------------------------------------------
+Text: We're holding a package for you! It could not be delivered due to incomplete address. Confirm details here: http://package-delivery.scammy.co
+Prediction: spam (confidence: 0.9996)
+Ham probability: 0.0004, Spam probability: 0.9996
+--------------------------------------------------
+Text: TAX REFUND NOTIFICATION: You are eligible for a tax refund of $2,350.75. Submit your details here to process your claim: http://irs-refund.scammer.com
+Prediction: spam (confidence: 1.0000)
+Ham probability: 0.0000, Spam probability: 1.0000
+--------------------------------------------------
+Text: Your credit score has dropped significantly! Act now to prevent further damage. Visit: http://credit-repair-now.suspicious-domain.ru
+Prediction: spam (confidence: 1.0000)
+Ham probability: 0.0000, Spam probability: 1.0000
+--------------------------------------------------
+Text: 50% OFF ALL PRODUCTS!!! Limited time offer! Exclusive discount for valued customers! Click to shop now: http://amazing-deals.sketchy-shop.xyz
+Prediction: spam (confidence: 1.0000)
+Ham probability: 0.0000, Spam probability: 1.0000
+--------------------------------------------------
+Text: Warning: Your bank account will be suspended in 24 hours. Update your information immediately: http://bank-verification.fraud-site.biz
+Prediction: spam (confidence: 0.9994)
+Ham probability: 0.0006, Spam probability: 0.9994
+--------------------------------------------------
+Text: CONGRATULATIONS! You are the 1,000,000th visitor to our website! Claim your special prize within 30 minutes: http://claim-prize-now.scam-alert.info
+Prediction: spam (confidence: 1.0000)
+Ham probability: 0.0000, Spam probability: 1.0000
+--------------------------------------------------
+Text: Important security update required for your Microsoft account. Your account access will be limited until you update: http://microsoft-update.fake-login.co
+Prediction: spam (confidence: 0.9995)
+Ham probability: 0.0005, Spam probability: 0.9995
+--------------------------------------------------
+Text: Great news! Your loan application has been approved for $50,000! Reply with your account details to receive funds immediately.
+Prediction: spam (confidence: 0.9997)
+Ham probability: 0.0003, Spam probability: 0.9997
+--------------------------------------------------
+Text: YOUR COMPUTER HAS BEEN INFECTED WITH A VIRUS! Call our technical support team immediately: 1-888-555-6789
+Prediction: spam (confidence: 0.6573)
+Ham probability: 0.3427, Spam probability: 0.6573
+--------------------------------------------------
+Text: LAST CHANCE! Act now to claim your unclaimed insurance settlement of $17,895.42 before we close your case file: http://claim-settlement.bogus-legal.net
+Prediction: spam (confidence: 1.0000)
+Ham probability: 0.0000, Spam probability: 1.0000
+--------------------------------------------------
+Text: Your account will be DELETED in 24 hours! We've detected unusual activity. Confirm your password to prevent account deletion: http://account-verify.data-theft.cn
+Prediction: spam (confidence: 0.9905)
+Ham probability: 0.0095, Spam probability: 0.9905
+--------------------------------------------------
+Text: Exclusive Business Opportunity: Invest $1,000 and receive guaranteed returns of $10,000 in just 30 days! Limited spots available.
+Prediction: spam (confidence: 0.9747)
+Ham probability: 0.0253, Spam probability: 0.9747
+--------------------------------------------------
+Text: ALERT: We've detected suspicious purchases on your Amazon account. Verify your payment method: http://amazon-verification.totally-fake.org
+Prediction: spam (confidence: 0.9812)
+Ham probability: 0.0188, Spam probability: 0.9812
+--------------------------------------------------

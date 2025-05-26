@@ -1,0 +1,63 @@
+Text: This is a normal email about work. Let's meet tomorrow to discuss the project.
+Prediction: ham (confidence: 0.9998)
+--------------------------------------------------
+Text: FREE!! Get your exclusive offer today! Limited time only! Click here to claim your prize now!!!
+Prediction: spam (confidence: 1.0000)
+--------------------------------------------------
+Text: Just wanted to check in and see how you're doing. Call me when you have time.
+Prediction: ham (confidence: 0.9975)
+--------------------------------------------------
+Text: URGENT: Your account has been compromised. Reply immediately with your password to verify your identity.
+Prediction: spam (confidence: 0.9419)
+--------------------------------------------------
+Text: Thank you for your recent purchase. Your order #12345 has been shipped and will arrive in 2-3 business days.
+Prediction: ham (confidence: 0.9488)
+--------------------------------------------------
+Text: CONGRATULATIONS! You've been selected to receive a FREE iPhone! Just pay $1.99 for shipping and handling.
+Prediction: spam (confidence: 0.9996)
+--------------------------------------------------
+Text: Hi Sarah, just checking in about the project deadline. Are we still on track for Friday?
+Prediction: ham (confidence: 0.9999)
+--------------------------------------------------
+Text: URGENT: Your Netflix account has been suspended. Click here to verify your payment information and restore service.
+Prediction: spam (confidence: 0.9976)
+--------------------------------------------------
+Text: Thanks for the dinner last night. We should do that again sometime next week!
+Prediction: ham (confidence: 0.9987)
+--------------------------------------------------
+Text: CONGRATULATIONS! You've been selected to receive a $1000 Walmart gift card! Reply YES to claim your prize now!
+Prediction: spam (confidence: 0.9994)
+--------------------------------------------------
+Text: I've attached the quarterly report for your review. Let me know if you have any questions.
+Prediction: ham (confidence: 0.9996)
+--------------------------------------------------
+Text: YOUR ATTENTION REQUIRED: Your package delivery has failed. Click the link to reschedule or your item will be returned.
+Prediction: ham (confidence: 0.9840)
+--------------------------------------------------
+Text: Just wanted to remind you about our meeting tomorrow at 2pm in Conference Room B.
+Prediction: ham (confidence: 0.9177)
+--------------------------------------------------
+Text: FINAL NOTICE: Your car warranty is about to expire! Call now to extend your coverage before it's too late!
+Prediction: spam (confidence: 0.9996)
+--------------------------------------------------
+Text: The API documentation you requested is now available. You can access it at the following link: https://example.com/docs
+Prediction: ham (confidence: 0.9997)
+--------------------------------------------------
+Text: BIG SALE!!! 90% OFF everything! Limited stock available! First come, first served! Buy now before it's all gone!!!
+Prediction: spam (confidence: 1.0000)
+--------------------------------------------------
+Text: I've completed the code review and left some comments on the pull request. There are a few minor issues to address.
+Prediction: ham (confidence: 0.9999)
+--------------------------------------------------
+Text: WARNING: Suspicious login attempt detected on your account. Verify your identity now by confirming your password.
+Prediction: spam (confidence: 0.9955)
+--------------------------------------------------
+Text: Here's the recipe you asked for. Let me know how it turns out if you end up making it this weekend.
+Prediction: spam (confidence: 0.9400)
+--------------------------------------------------
+Text: YOU'VE WON THE LOTTERY! Send us your bank details to claim your £5,000,000 prize immediately!
+Prediction: spam (confidence: 0.9983)
+--------------------------------------------------
+Text: The team meeting has been moved from Tuesday to Wednesday at the same time. Please update your calendar accordingly.
+Prediction: ham (confidence: 0.9998)
+--------------------------------------------------
