@@ -489,7 +489,7 @@ def main():
                         help="Path to test ham data")
     parser.add_argument("--test_spam", type=str, default="test_data_spam.json",
                         help="Path to test spam data")
-    parser.add_argument("--batch_size", type=int, default=32,
+    parser.add_argument("--batch_size", type=int, default=12,
                         help="Batch size for evaluation")
     parser.add_argument("--device", type=str, default=None,
                         help="Device to use (cuda/cpu)")
