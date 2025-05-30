@@ -112,6 +112,9 @@ The model expects data in JSON format with the following structure for each file
 }
 ```
 
+### Link to Dataset: 
+https://www.kaggle.com/datasets/ryantwemlow/enron-spamham-dataset-extended
+
 - Separate files are used for ham and spam messages for training and testing (e.g., `train_data_ham.json`, `train_data_spam.json`).
 - During processing for SpamGPT, texts are formatted with special tokens. For example: `<SOE>message content<EOE><SOP>` for inference, and `<SOE>message content<EOE><SOP><HAM><EOP>` (or `<SPAM>`) for training.
 
